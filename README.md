@@ -8,3 +8,7 @@ look, we are adding more stuff!
 The script will function to extract the unique values from a coloumn from a .csv file and saves them to a file.
 
 ##List of Dependencies
+
+a computer
+will to do more work before coffee
+
